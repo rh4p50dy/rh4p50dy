@@ -1,24 +1,29 @@
 ## Hi there 👋
 
-### A Full-Stack Developer by day ☼ and a Laravel Community Contributor by night ☾
-Full-Stack Developer at Medicare;
-Host/Organizing Laracon EU;
+### An IT Student by day ☼ and a Full Stack Developer/CTF Player/Hacker by night ☾
 
-⚙️ I use daily: .php, .js, .html, .css, .svg, .psd, .ai
-🌍 I'm mostly active within the Laravel Community
-💅 Designed: @pestphp, NorthMeetsSouth.audio, ThenPing.me, HappydDev.fm, etc…
-💬 ping me about design, branding, laravel, development, design thinking
-<!--
-**rh4p50dy/rh4p50dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```typescript
+import { Bio } from @/types;
 
-Here are some ideas to get you started:
+const Minn Sitt Paing Mhuu : Self = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "TypeScript", "Java", "PHP", "Python"],
+    askMeAbout: ["web dev", "tech", "cybersecurity", "web sec"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express","NextJS"],
+            php: ["Laravel"],
+            java: ["Spring Boot"],
+            python: ["Flask"],
+        },
+        frontEnd: {
+            js: ["React", "NextJS"],
+            css: ["Tailwind", "Bootstrap", "Shadcn UI"],
+        },
+        databases: ["mongo", "MySql"],
+    },
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
