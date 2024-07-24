@@ -5,7 +5,7 @@
 ```typescript
 import { Bio } from @/types;
 
-const Minn Sitt Paing Mhuu : Bio = {
+const MinnSittPaingMhuu : Bio = {
     pronouns: "He" | "Him",
     code: ["Javascript", "TypeScript", "Java", "PHP", "Python"],
     askMeAbout: ["web dev", "tech", "cybersecurity", "web sec"],
