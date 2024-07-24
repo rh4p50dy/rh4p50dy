@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### An IT Student by day ☼ and a Full Stack Developer/CTF Player/Hacker by night ☾
+### An IT Student by day ☼ and a { Full-Stack-Developer, CTF-Player, Hacker } by night ☾
 
 ```typescript
 import { Bio } from @/types;
 
-const Minn Sitt Paing Mhuu : Self = {
+const Minn Sitt Paing Mhuu : Bio = {
     pronouns: "He" | "Him",
     code: ["Javascript", "TypeScript", "Java", "PHP", "Python"],
     askMeAbout: ["web dev", "tech", "cybersecurity", "web sec"],
